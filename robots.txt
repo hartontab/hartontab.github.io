@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hartontab.github.io/sitemap.html.gz
+Sitemap: https://hartontab.github.io/app/sitemap.html.gz
+Sitemap: https://hartontab.github.io/assets/sitemap.html.gz
+Sitemap: https://hartontab.github.io/css/sitemap.html.gz
+Sitemap: https://hartontab.github.io/includes/sitemap.html.gz
+Sitemap: https://hartontab.github.io/item/sitemap.html.gz
+Sitemap: https://hartontab.github.io/src/sitemap.html.gz
